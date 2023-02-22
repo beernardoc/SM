@@ -1,0 +1,1 @@
+[simbolos,frequencia] = Alfabeto2(Mensagem)
